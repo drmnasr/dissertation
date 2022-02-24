@@ -1,7 +1,10 @@
 # dissertation
 ## Folder Structure:
-    - Models : Contains all the trained models, class names and colors
+    - Models : Contains all the trained models, class names and colors.
     - Datasets: Contains a script to remap ADE20K
+
+## Download Model Files:
+https://drive.google.com/drive/folders/1i313ubfDbe71gf_yzfmhZHmilnByQZEt?usp=sharing
 
 ## Requirements:
 Will only run on Jetson devices
